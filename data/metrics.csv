@@ -1,0 +1,4 @@
+ts | iso_time | cpu | ram_percent | disk_percent | net_sent_delta | net_recv_delta | top_proc_1 | top_proc_1_cpu | top_proc_2 | top_proc_2_cpu | top_proc_3 | top_proc_3_cpu | 
+1764335740,2025-11-28T13:15:40.816574+00:00,16.7,45.9,93.3,0,0,System Idle Process,0.0,System,0.0,pid:140,0.0
+1764335743,2025-11-28T13:15:43.249703+00:00,3.1,45.9,93.3,8906,6550,System Idle Process,1169.3,SteelSeriesPrism.exe,6.3,python.exe,4.8
+1764335745,2025-11-28T13:15:45.462726+00:00,4.3,45.9,93.3,1633,1566,System Idle Process,1156.8,SteelSeriesPrism.exe,8.5,Cursor.exe,7.8
